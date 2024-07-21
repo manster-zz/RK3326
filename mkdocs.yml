@@ -57,6 +57,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
 site_url: https://manster-zz.github.io/RK3326/
 extra_css:
-  - assets/extra.css
+  - css/extra.css
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
