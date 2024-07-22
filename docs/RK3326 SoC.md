@@ -3,7 +3,10 @@ hide:
   - navigation
   - toc
 ---
-# RK3326
+
+[SoC](https://en.wikipedia.org/wiki/System_on_a_chip) = system on a chip or system-on-chip
+
+>An SoC integrates a microcontroller, microprocessor or perhaps several processor cores with peripherals like a GPU, Wi-Fi and cellular network radio modems or one or more coprocessors.
 
 Manufacturer: Rockchip
 

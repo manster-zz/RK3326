@@ -4,7 +4,15 @@ hide:
   - toc
 ---
 
-# Devices
+
+
+For more information about these devices visit following sites:
+
+[Handhelds Google Spreadsheet](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?gid=0#gid=0)
+
+[Joey's Retro Handhelds List](https://joeysretrohandhelds.com/handheld-list/)
+
+[r/SBCGaming - Reddit SBC (Single Board Computers) Gaming & Retro Handhelds](https://www.reddit.com/r/SBCGaming/)
 
 ## Sortable Table of Handheld Devices with the RK3326 SoC
 
@@ -28,7 +36,7 @@ hide:
 |SZDiiER                               | D-007                |<a href='assets/d-007.webp'><img src="assets/d-007.webp"  width="400"/></a>       | 2023 / 05 |       |
 |Game Console                                      | R35S                 |<a href='assets/r35s.webp'><img src="assets/r35s.webp"  width="400"/></a>       | 2023 / 07 |       |
 |Game Console                                      | R36S                 |<a href='assets/R36S.jpg'><img src="assets/R36S.jpg"  width="400"/></a>       | 2023 / 10 |<a href='https://github.com/manster-zz/R36S-LINKS/wiki'>R36S WIKI</a>       |
-|Ampown                                      | XU10                 |<a href='assets/XU10.jpg'><img src="assets/XU10.jpg"  width="400"/></a>       | 2023 / 11 |       |
+|Ampown                                      | XU10                 |<a href='assets/XU10.jpg'><img src="assets/XU10.jpg"  width="400"/></a>       | 2023 / 11 | RK3326S      |
 |GAMENT                                      | GAMEMT E6            |<a href='assets/E6.jpg'><img src="assets/E6.jpg"  width="400"/></a>       | 2023 / 12 |       |
 |Game Console                                      | R33S                 |<a href='assets/R33S.webp'><img src="assets/R33S.webp"  width="400"/></a>       | 2024 / 01 |R36S in a Miyoo Mini+ shell       |
 | PowKiddy                             | PowKiddy V10         |<a href='assets/PowKiddy V10.jpg'><img src="assets/PowKiddy V10.jpg"  width="400"/></a>       | 2024 / 06 |       |
