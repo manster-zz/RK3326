@@ -7,8 +7,8 @@
   
   .md-header__button.md-logo img,
   .md-header__button.md-logo svg {
-    height: 70%;
-    width: 70%;
+    height: 30%;
+    width: 50%;
   }
 
   th, td {
@@ -31,4 +31,13 @@
 .md-typeset__table table:not([class]) td,
 .md-typeset__table table:not([class]) th {
     padding: 9px;
+}
+
+.md-sidebar--primary {
+  width: 8rem !important;
+  left: -8rem !important;
+}
+
+.md-grid {
+  max-width: 1440px; 
 }

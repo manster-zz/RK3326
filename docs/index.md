@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Devices
 
 ## Sortable Table of Handheld Devices with the RK3326 SoC
@@ -21,12 +27,13 @@
 | PowKiddy                    | PowKiddy RGB20S      |<a href='assets/PowKiddy RGB20S.jpg'><img src="assets/PowKiddy RGB20S.jpg"  width="400"/></a>       | 2022 / 05 |       |
 |SZDiiER                               | D-007                |<a href='assets/d-007.webp'><img src="assets/d-007.webp"  width="400"/></a>       | 2023 / 05 |       |
 |Game Console                                      | R35S                 |<a href='assets/r35s.webp'><img src="assets/r35s.webp"  width="400"/></a>       | 2023 / 07 |       |
-|Game Console                                      | R36S                 |<a href='assets/R36S.jpg'><img src="assets/R36S.jpg"  width="400"/></a>       | 2023 / 10 |       |
+|Game Console                                      | R36S                 |<a href='assets/R36S.jpg'><img src="assets/R36S.jpg"  width="400"/></a>       | 2023 / 10 |<a href='https://github.com/manster-zz/R36S-LINKS/wiki'>R36S WIKI</a>       |
 |Ampown                                      | XU10                 |<a href='assets/XU10.jpg'><img src="assets/XU10.jpg"  width="400"/></a>       | 2023 / 11 |       |
 |GAMENT                                      | GAMEMT E6            |<a href='assets/E6.jpg'><img src="assets/E6.jpg"  width="400"/></a>       | 2023 / 12 |       |
-|Game Console                                      | R33S                 |<a href='assets/R33S.webp'><img src="assets/R33S.webp"  width="400"/></a>       | 2024 / 01 |       |
+|Game Console                                      | R33S                 |<a href='assets/R33S.webp'><img src="assets/R33S.webp"  width="400"/></a>       | 2024 / 01 |R36S in a Miyoo Mini+ shell       |
 | PowKiddy                             | PowKiddy V10         |<a href='assets/PowKiddy V10.jpg'><img src="assets/PowKiddy V10.jpg"  width="400"/></a>       | 2024 / 06 |       |
-|                                      | O30s                 |<a href='assets/O30s.webp'><img src="assets/O30s.webp"  width="400"/></a>       | 2024 / 07 |       |
-| Gaminja                              | K36                  |<a href='assets/k36.webp'><img src="assets/k36.webp"  width="400"/></a>       | 2024 / 07 |       |
+|Game Console                                     |R40S Pro                        |<a href='assets/R40SPro.jpg'><img src="assets/R40SPro.jpg"  width="400"/></a>       | 2024 / 07          | R36S in a different shell (rounded bottom)      |
+|                                      | O30s                 |<a href='assets/O30s.webp'><img src="assets/O30s.webp"  width="400"/></a>       | 2024 / 07 |Says "R30S" on the board       |
+| Gaminja/Kinhank                             | K36                  |<a href='assets/k36.webp'><img src="assets/k36.webp"  width="400"/></a>       | 2024 / 07 |       |
 | PowKiddy                             | Powkiddy RGB20 Pro   |<a href='assets/Powkiddy RGB20 Pro.webp'><img src="assets/Powkiddy RGB20 Pro.webp"  width="400"/></a>       | ?         |       |
 |                                      |                      |       |           |       |
